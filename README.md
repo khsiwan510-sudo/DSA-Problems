@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
