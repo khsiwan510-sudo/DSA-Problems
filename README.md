@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
