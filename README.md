@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
@@ -71,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
