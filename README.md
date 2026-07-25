@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
