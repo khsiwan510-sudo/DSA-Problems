@@ -16,19 +16,15 @@ class Solution {
             size++;
             temp = temp.next;
         }
-        if(size==1) return head;
-        if(true){
-            ListNode trav = head;
-            size = size/2;
-            int i = 0;
-            while(trav!=null){
-                trav = trav.next;
-                i++;
-                if(i==size) break;
-            }
-            return trav;
+        if(size==1) return head;        
+        ListNode trav = head;
+        size = size/2;
+        int i = 0;
+        while(trav!=null){
+            trav = trav.next;
+            i++;
+            if(i==size) break;
         }
-        return temp;
-        
+        return trav;        
     }
 }
