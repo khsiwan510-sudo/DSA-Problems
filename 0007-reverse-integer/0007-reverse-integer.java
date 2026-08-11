@@ -1,26 +1,13 @@
 class Solution {
     public int reverse(int x) {
-        if( x == 0 ) return 0;
-        long reverse = 0;
-        if(x>0){
-            while(x>0){
-                int lastDigit = x % 10;
-                reverse = reverse*10 + lastDigit;
-                x = x/10;
-            }           
+        long y = x;
+        long ans = (y>0)? helper(y,0):(-1)*helper((-1)*y,0);
+        return (ans < Integer.MIN_VALUE || ans > Integer.MAX_VALUE)? 0:(int)ans;
+    }
+    public long helper(long n, long reverse){
+        if(n<=0){
+            return reverse;
         }
-        else{
-            int nums = (-1)*x;
-            long negReverse = 0;
-            while(nums>0){
-                int unidigit = nums % 10;
-                negReverse = negReverse*10 + unidigit;
-                nums = nums/10;
-            }
-            reverse = (-1)*negReverse;
-        }
-        if(reverse < Integer.MIN_VALUE || reverse > Integer.MAX_VALUE) return 0;
-        else return (int)reverse;
-        
+        return helper(n/10,reverse*10+(n%10));
     }
 }
