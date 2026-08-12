@@ -14,20 +14,7 @@ class Solution {
                 list2 = list2.next;
             }
         }
-        if(list1==null){
-            while(list2!=null){
-                t.next = list2;
-                t = t.next;
-                list2 = list2.next;
-            }
-        }
-        if(list2==null){
-            while(list1!=null){
-                t.next = list1;
-                t = t.next;
-                list1 = list1.next;
-            }
-        }
+        t.next = (list1==null)? list2:list1;
         return dummy.next;
     }
 }
