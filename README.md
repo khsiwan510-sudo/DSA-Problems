@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
