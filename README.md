@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
