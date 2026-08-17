@@ -1,17 +1,15 @@
 class Solution {
-    public ListNode helper(ListNode curr, ListNode prev, ListNode forwd){
+    public ListNode helper(ListNode curr, ListNode prev){
         if(curr==null) return prev;
-        forwd = curr.next;
+        ListNode forwd = curr.next;
         curr.next = prev;
         prev = curr;
         curr = forwd;
-        return helper(curr, prev, forwd);
+        return helper(curr, prev);
     }
     public ListNode reverseList(ListNode head) {
         // M - 3 -> Recursive Method
-        return helper(head,null,null);
-
-
+        return helper(head,null);
 
         // M - 2 -> Iterative 
         // ListNode f = null; 
