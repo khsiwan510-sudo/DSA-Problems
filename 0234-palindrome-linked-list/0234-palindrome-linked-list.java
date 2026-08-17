@@ -7,7 +7,7 @@ class Solution {
             temp = temp.next;
         }
         int i = 0, j = ans.size()-1;
-        while(i<=j){
+        while(i<j){
             if(ans.get(i) != ans.get(j)) return false;
             i++; j--;
         }
