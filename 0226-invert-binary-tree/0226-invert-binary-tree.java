@@ -14,17 +14,26 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root){
+    // public void helper(TreeNode root){
+    //     if(root == null) return;
+    //     TreeNode temp = root.left;
+    //     root.left = root.right;
+    //     root.right = temp;
+    //     helper(root.left);
+    //     helper(root.right);
+    // }
+    public void helperInOrder(TreeNode root){
         if(root == null) return;
+        helperInOrder(root.left);
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-        helper(root.left);
-        helper(root.right);
+        helperInOrder(root.left);
     }
     public TreeNode invertTree(TreeNode root) {
         TreeNode ans = root;
-        helper(root);
+        // helper(root);
+        helperInOrder(root);
         return ans;
     }
 }
