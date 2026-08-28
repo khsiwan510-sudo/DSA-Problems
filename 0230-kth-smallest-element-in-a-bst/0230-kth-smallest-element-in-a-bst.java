@@ -3,7 +3,10 @@ class Solution {
         if(root == null) return;
         inorder(root.left, ans);
         ans[0]--;
-        if(ans[0]==0) ans[1] = root.val;
+        if(ans[0]==0){
+            ans[1] = root.val;
+            return;
+        }
         inorder(root.right, ans);
         
     }
