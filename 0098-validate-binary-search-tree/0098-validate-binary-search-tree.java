@@ -1,16 +1,25 @@
+class Pair {
+    long max;
+    long min;
+    Pair(long max, long min){
+        this.max = max;
+        this.min = min;
+    }
+}
 class Solution {
-    private void inorder(TreeNode root, ArrayList<Integer> arr){
-        if(root == null) return;
-        inorder(root.left, arr);
-        arr.add(root.val);
-        inorder(root.right, arr);
+    public Pair maxMin(TreeNode root, boolean[] flag){
+        if(root == null) return new Pair(Long.MIN_VALUE, Long.MAX_VALUE);
+        Pair lst = maxMin(root.left, flag);
+        Pair rst = maxMin(root.right, flag);
+        long val = root.val;
+        long mx = Math.max(root.val, Math.max(lst.max, rst.max));
+        long mn = Math.min(root.val, Math.min(lst.min, rst.min));
+        if(lst.max >= val || rst.min <= val) flag[0] = false;
+        return new Pair(mx, mn);
     }
     public boolean isValidBST(TreeNode root) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        inorder(root, arr);
-        for(int i = 0; i < arr.size()-1; i++){
-            if(arr.get(i) >= arr.get(i+1)) return false;
-        }
-        return true;
+        boolean[] flag = {true};
+        maxMin(root, flag);
+        return flag[0];
     }
 }
