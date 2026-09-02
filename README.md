@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0441-arranging-coins) |
+| [3875-construct-uniform-parity-array-i](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
