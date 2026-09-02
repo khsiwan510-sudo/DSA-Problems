@@ -9,11 +9,9 @@ class Solution {
                 }
                 pred.right = curr.right;
                 curr.right = curr.left;
-                curr.left = null;
-                curr = curr.right;  // Not left 
-            }else{
-                curr = curr.right;
-            }           
+                curr.left = null; 
+            }
+            curr = curr.right;
         }
     }
     // public void flatten(TreeNode root) {
