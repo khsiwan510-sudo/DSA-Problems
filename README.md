@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0658-find-k-closest-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1046-last-stone-weight) |
@@ -343,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -352,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
