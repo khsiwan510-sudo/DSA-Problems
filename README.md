@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0867-transpose-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0441-arranging-coins) |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -332,4 +337,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
