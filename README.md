@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
