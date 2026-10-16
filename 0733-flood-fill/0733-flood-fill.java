@@ -12,6 +12,7 @@ class Solution {
         Queue<Pair> q = new LinkedList<>();
         boolean[][] visited = new boolean[m][n];
         int oldColor = image[sr][sc];
+        if(image[sr][sc] == color ) return image;
         q.add(new Pair(sr, sc));
         image[sr][sc] = color;        
         visited[sr][sc] = true;
