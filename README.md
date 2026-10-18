@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## DP on Trees
@@ -394,9 +396,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0841-keys-and-rooms) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/khsiwan510-sudo/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
